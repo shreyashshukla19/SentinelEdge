@@ -1,0 +1,12 @@
+{
+  "admin": {
+    "password_hash": "e86f78a8a3caf0b60d8e74e5942aa6d86dc150cd3c03338aef25b7d2d7e3acc7",
+    "role": "admin",
+    "display": "Administrator"
+  },
+  "supervisor1": {
+    "password_hash": "ad0a7b939c6b2335d3a8b9b3d7375680a68c720250349c9a988dc641052d6f17",
+    "role": "floor_supervisor",
+    "display": "Floor Supervisor"
+  }
+}
